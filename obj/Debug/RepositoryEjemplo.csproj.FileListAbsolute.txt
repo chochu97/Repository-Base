@@ -1,0 +1,15 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\RepositoryEjemplo.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\RepositoryEjemplo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\RepositoryEjemplo.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\obj\Debug\RepositoryEjemplo.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\obj\Debug\RepositoryEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\obj\Debug\RepositoryEjemplo.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\obj\Debug\RepositoryEjemplo.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\Domain.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\Logic.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\Datos.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\Domain.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\Logic.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\Datos.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\obj\Debug\Reposito.DE409621.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\RepositoryPatron\RepositoryEjemplo\bin\Debug\Datos.dll.config
